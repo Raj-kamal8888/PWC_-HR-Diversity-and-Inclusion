@@ -81,7 +81,7 @@ Microsoft Power BI Excel, Power Bi, KPIs, Power Query, Data Modelling
 ▶ Employees with tenure of 9 years are the majority.
 
 
-Promotions -
+**Promotions -**
 
 ▶ 36 employees were promoted in FY20, 51 employees were promoted in FY21.
 
