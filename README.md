@@ -33,6 +33,7 @@ Measures to define KPIs
 ▶Average Performance rating: women
 
 **Action**
+
 First analyse the data
 
 Perform data exploration and data cleaning
