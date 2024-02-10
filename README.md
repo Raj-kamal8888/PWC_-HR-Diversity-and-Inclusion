@@ -48,7 +48,7 @@ Microsoft Power BI Excel, Power Bi, KPIs, Power Query, Data Modelling
 
 **Insights :-**
 
-Overview -
+**Overview -**
 
 ▶ There were total 500 employees in the company, out of which 434 employees were from start.
 
@@ -59,7 +59,7 @@ Overview -
 ▶ The gender balance of the employees in the company is 59%(Males) : 41%(Females).
 
 
-Hires -
+**Hires -**
 
 ▶ There were total 66 new hires in the company, 32 males & 34 females. Average age of new hires was 32 years.
 
@@ -70,7 +70,8 @@ Hires -
 ▶ 32 candidates with age group of 20-29 were hired.
 
 
-Resigns -
+**Resigns -**
+
 ▶ 47 of our employees left the company, out of which 26 were male candidates & 21 were female candidates.
 
 ▶ Majority employees were of age group 40-49.
