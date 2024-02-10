@@ -2,7 +2,9 @@
 
 **Problem statment**:
 
-Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress.
+I joined a virtual internship of PwC through forage, where my role was of Power BI Analyst. This is the 3rd BI task from the internship, objective was to analyse the trends of Hires, Resigns, Promotions & Performance in the company.
+My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
+
 
 **Task**:
 
@@ -12,22 +14,23 @@ Write what you think some root causes of their slow progress might be
 
 Measures to define KPIs
 
-No. of men
+▶No. of men
 
-No. of women
+▶No. of women
 
-No. of leavers
-% employees promoted (FY21)
+▶No. of leavers
 
-% of women promoted
+▶% employees promoted (FY21)
 
-% of hires men, % of hires women
+▶% of women promoted
 
-% turnover 
+▶% of hires men, % of hires women
 
-Average performance rating: men
+▶% turnover 
 
-Average Performance rating: women
+▶Average performance rating: men
+
+▶Average Performance rating: women
 
 **Action**
 First analyse the data
@@ -41,3 +44,30 @@ Make insights report to showcase root cause for slow progress diversity and incl
 **Tools Required:**
 
 Microsoft Power BI Excel, Power Bi, KPIs, Power Query, Data Modelling
+
+**Insights :-**
+
+Overview -
+▶ There were total 500 employees in the company, out of which 434 employees were from start.
+▶ 66 new candidates were hired into the company in FY20, 47 employees left the company in FY20.
+▶ Currently there are 453 employees working with the company.
+▶ The gender balance of the employees in the company is 59%(Males) : 41%(Females).
+
+
+Hires -
+▶ There were total 66 new hires in the company, 32 males & 34 females. Average age of new hires was 32 years.
+▶ Most hires were in the department of Operations i.e. , followed by Sales & Marketing and Internal services.
+▶ Most new candidates were recruited for the position of Junior Officer.
+▶ 32 candidates with age group of 20-29 were hired.
+
+
+Resigns -
+▶ 47 of our employees left the company, out of which 26 were male candidates & 21 were female candidates.
+▶ Majority employees were of age group 40-49.
+▶ Average performance rating of resigners was 2.73 / 4.
+▶ Employees with tenure of 9 years are the majority.
+
+
+Promotions -
+▶ 36 employees were promoted in FY20, 51 employees were promoted in FY21.
+▶ Most promotion was in operations department to Junior Officers.
