@@ -46,6 +46,9 @@ Make insights report to showcase root cause for slow progress diversity and incl
 
 Microsoft Power BI Excel, Power Bi, KPIs, Power Query, Data Modelling
 
+![HR-Diversity   Inclusion](https://github.com/Raj-kamal8888/PWC_-HR-Diversity-and-Inclusion/assets/111457714/6b5e06e3-5678-4c59-8c1e-705011b34669)
+
+
 **Insights :-**
 
 **Overview -**
